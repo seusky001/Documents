@@ -29,8 +29,12 @@ Otherwise, we will not merge your pull requests.
 | nftgo.bit       | https://nftgo.io | The most professional data provider and gateway for NFT ecosystem |
 | kollect.bit     | https://kollect.me | The first NFT marketplace on Nervos                          |
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
-| HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay
- |
+| HyperMate.bit     | www.hypermate.com     |  HyperMate is a subsidiary brand of HyperPay |
+| danccv.bit     | https://twitter.com/cryptorecruitr     |  Famous KOL in blockchain industry |
+| Cryptosrus.bit     | https://twitter.com/CryptosR_Us     |  Famous KOL in blockchain industry |
+| CryptoWendyO.bit     | https://twitter.com/CryptoWendyO     |  Famous KOL in blockchain industry |
+
+
 
 ## First Round of Applications（closed！！！）
 
